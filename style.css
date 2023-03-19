@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+   
+}
+
+.blok-1{
+    width: 1035px;
+    margin: 5px auto;
+    height:  180px;
+    
+ }
+header{
+    width: 1035px;
+    height:  190px;
+   
+}
+.logo{
+    width: 200px;
+    height:  180px;
+    float: left;
+ }
+.name{
+    width: 685px;
+    height:  40px;
+    text-align: center;
+    margin-top: -190px;
+    margin-left: 240px;
+    border: 6px outset yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px; 
+   color: rgb(5, 14, 22);
+   background-color: yellow;
+}
+
+.blok2 {
+    width: 100px;
+    margin: 5px auto;
+    height:  140px;
+    background-image: url(./img/11.jpg) ;
+    
+   
+}
+
+.menu-2 {
+    width: 180px;
+    height:  280px;
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: oblique ;
+    position: absolute;
+}
+.info{
+    width: 685px;
+    height:  auto;
+    margin-top: 30px;
+    margin-left: 250px;
+    font-size: 20px;
+    position: absolute;
+    border: 0px solid black;
+ }   
+.h1{
+    text-align: content:
+    
+}
+
+
+
+
+   
